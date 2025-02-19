@@ -1,3 +1,35 @@
+Major Stocks That Significantly Move MES Futures:
+The S&P 500 is a market-cap-weighted index, meaning the largest companies have the most influence. The biggest movers include:
+
+Technology Sector (Most Influential)
+Apple (AAPL)
+Microsoft (MSFT)
+Nvidia (NVDA)
+Alphabet (GOOGL, GOOG)
+Amazon (AMZN)
+Meta Platforms (META)
+Tesla (TSLA)
+Broadcom (AVGO)
+AMD (AMD)
+Consumer & Retail
+Berkshire Hathaway (BRK.B)
+Eli Lilly (LLY)
+Visa (V)
+Johnson & Johnson (JNJ)
+Procter & Gamble (PG)
+Walmart (WMT)
+McDonald's (MCD)
+Financial Sector
+JPMorgan Chase (JPM)
+Bank of America (BAC)
+Goldman Sachs (GS)
+Energy & Industrials
+ExxonMobil (XOM)
+Chevron (CVX)
+UnitedHealth Group (UNH)
+Caterpillar (CAT)
+
+
 Building a scalp trading bot for the Micro E-mini S&P 500 (MES) using signals derived from the top stocks that drive the S&P 500 can be approached in several ways. The high-level idea is to create a “leading index” or a “composite signal” from the major stocks’ price action (and possibly volume) that you believe front-runs or correlates strongly with short-term MES movements. Below are some practical ideas and indicators you might use:
 
 1. Weighted “Mini-Index” of Key Stocks
